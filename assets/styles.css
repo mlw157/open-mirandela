@@ -305,6 +305,11 @@ a.support-row:hover { background: var(--gold-soft); }
 .contract-mini-stats div:last-child { border: 0; }
 .contract-mini-stats span { color: var(--ink-soft); font-size: 7px; text-transform: uppercase; }
 .contract-mini-stats b { margin-top: 6px; font: 400 18px var(--serif); }
+.contract-year-group + .contract-year-group { border-top: 6px solid var(--paper); }
+.contract-year-heading { min-height: 48px; padding: 10px 18px; display: grid; grid-template-columns: auto 1fr auto; align-items: center; gap: 12px; border-bottom: 1px solid var(--line); background: var(--cream); }
+.contract-year-heading strong { color: var(--green); font: 400 22px var(--serif); }
+.contract-year-heading span { color: var(--ink-soft); font-size: 8px; }
+.contract-year-heading b { font: 400 15px var(--serif); }
 .parish-contract-list a { min-height: 72px; padding: 13px 18px; display: grid; grid-template-columns: 1fr auto 12px; align-items: center; gap: 14px; border-bottom: 1px solid var(--line); color: inherit; text-decoration: none; }
 .parish-contract-list a:hover { background: var(--paper); }
 .parish-contract-list span, .parish-contract-list strong { min-width: 0; }
