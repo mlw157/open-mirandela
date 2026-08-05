@@ -1,0 +1,5 @@
+data/source-health.json
+data/raw/
+scripts/__pycache__/
+.venv/
+.DS_Store

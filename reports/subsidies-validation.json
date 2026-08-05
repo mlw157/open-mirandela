@@ -1,0 +1,29 @@
+{
+  "generated_at": "2026-08-05T14:57:03.631471+00:00",
+  "ledger_records": 523,
+  "public_legal_records": 230,
+  "subsidy_records": 107,
+  "parish_records": 90,
+  "nonprofit_current_paid": 1109371.54,
+  "parish_current_paid": 391200.0,
+  "parish_contracts": {
+    "count": 248,
+    "value": 5077057.72,
+    "parishes_with_contracts": 25,
+    "coverage": [
+      2012,
+      2026
+    ]
+  },
+  "state_funding": {
+    "year": 2026,
+    "fff": 1545909.0,
+    "excess": 1495977.0,
+    "total": 3041886.0,
+    "source_url": "https://portalautarquico.dgal.gov.pt/ficheiros/?channel=a7187039-4863-4c6c-9ef0-1422b677728d&content_id=7F882D7D-4D09-4A16-B4D7-DD6CA4E5E991&dtestate=2026-01-12111538&field=storage_image&filetype=pdf&lang=pt&schema=f7664ca7-3a1a-4b25-9f46-2056eef44c33&ver=1"
+  },
+  "privacy_exclusions": {
+    "records": 293,
+    "paid": 70334.29
+  }
+}

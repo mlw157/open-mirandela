@@ -1,0 +1,62 @@
+[
+  {
+    "year": 2024,
+    "page_count": 262,
+    "checks": [
+      {
+        "value": 26789027.45,
+        "text_extraction_match": true,
+        "verified": true,
+        "method": "text"
+      },
+      {
+        "value": 25330024.13,
+        "text_extraction_match": true,
+        "verified": true,
+        "method": "text"
+      },
+      {
+        "value": 986668.5,
+        "text_extraction_match": false,
+        "verified": true,
+        "method": "rendered-page visual check"
+      },
+      {
+        "value": 9962672.61,
+        "text_extraction_match": false,
+        "verified": true,
+        "method": "rendered-page visual check"
+      }
+    ]
+  },
+  {
+    "year": 2025,
+    "page_count": 271,
+    "checks": [
+      {
+        "value": 27180948.51,
+        "text_extraction_match": true,
+        "verified": true,
+        "method": "text"
+      },
+      {
+        "value": 24650252.87,
+        "text_extraction_match": true,
+        "verified": true,
+        "method": "text"
+      },
+      {
+        "value": 1109371.54,
+        "text_extraction_match": true,
+        "verified": true,
+        "method": "text"
+      },
+      {
+        "value": 9426275.77,
+        "text_extraction_match": false,
+        "verified": true,
+        "method": "rendered-page visual check"
+      }
+    ]
+  }
+]

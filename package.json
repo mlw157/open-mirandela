@@ -1,0 +1,16 @@
+{
+  "name": "open-mirandela",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Public-interest explorer for official data about the Municipality of Mirandela.",
+  "scripts": {
+    "dev": "node scripts/serve.mjs",
+    "check": "node --check assets/app.js && node --check scripts/serve.mjs && .venv/bin/python -m py_compile scripts/*.py",
+    "sync:contracts": ".venv/bin/python scripts/ingest_contracts.py",
+    "sync:finances": ".venv/bin/python scripts/ingest_finances.py",
+    "sync:minutes": ".venv/bin/python scripts/ingest_minutes.py",
+    "sync:subsidies": ".venv/bin/python scripts/ingest_subsidies.py",
+    "sync:sources": ".venv/bin/python scripts/sync_sources.py"
+  },
+  "license": "MIT"
+}
