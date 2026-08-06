@@ -1,4 +1,4 @@
-# Ver Mirandela
+# Open Mirandela
 
 An independent, source-first explorer for public information about the Municipality of Mirandela.
 
